@@ -1,0 +1,66 @@
+.head{
+  background-image: url(../img/pattern.png);
+  background-color: lightblue;
+  background-size: 190px;
+}
+
+.logo{
+  height: 50px;
+  margin-top: 40px;
+}
+
+.autore{
+  color: grey;
+}
+
+.nome-autore{
+  color: lightblue;
+}
+
+.piccolo{
+  font-size: 13px;
+  color: grey;
+}
+
+.importante{
+  background-color: yellow;
+}
+
+.descrizione-foto{
+  font-size: 13px;
+}
+
+thead{
+  background-color: blue;
+  color: white;
+}
+
+.colonna-piccola{
+  width: 25%;
+}
+
+.dispari{
+  background-color: lightblue;
+}
+
+.link-interessanti{
+  color: grey;
+  font-size: 18px;
+}
+
+h4{
+  color:white;
+  font-size: 24px;
+}
+
+.link1{
+  background-image: url(../img/monitor.jpg);
+  height: 208px;
+  background-repeat: no-repeat;
+}
+
+.link2{
+  background-image: url(../img/graph.jpg);
+  height: 207px;
+  background-repeat: no-repeat;
+}
